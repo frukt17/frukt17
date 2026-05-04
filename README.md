@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  Я буду работать над этим ещё, звучит слишком пафосно помоему:
   Software engineering student with a focus on backend development. <br> 
   I value reliability, efficiency, and solutions that just work. <br>
   I appreciate the technical depth of Linux environments and strive for precision in everything I build.
