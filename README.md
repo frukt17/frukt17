@@ -36,7 +36,7 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Contacts
 
 <div align="center">
   <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
